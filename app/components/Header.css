@@ -1,18 +1,15 @@
 * body{
-    /* box-sizing: border-box; */
     padding: 0;
     margin: 0;
   }
   
   .header{
     width: 100%;
-    /* border: solid red 1px; */
     background-color: ghostwhite;
     box-shadow: 0px 0px 12px 0px #B3AE9C;
   }
   
   .rowBox{
-    /* border: solid red 1px; */
     width: 1440px;
     margin: auto;
     height:72px;
@@ -22,7 +19,6 @@
     background-color: white;
   }
   .col1one{
-    /* border:solid red 1px; */
     width:220px;
     font-size: 30px;
     text-align: center;
@@ -32,13 +28,11 @@
   }
 
   .col2two{
-    /* border:solid red 1px; */
     width:870px;
     justify-content: space-between;
     display: flex;
   }
   .colBox1{
-    /* border:solid red 1px; */
     width:115px;
     font-size: 20px;
     text-align: center;
@@ -47,7 +41,6 @@
   }
 
   .colBox2{
-    /* border:solid red 1px; */
     width:128px;
     font-size: 20px;
     text-align: center;
@@ -55,7 +48,6 @@
   }
 
   .colBox3{
-    /* border:solid red 1px; */
     width:160px;
     font-size: 20px;
     text-align: center;
@@ -63,14 +55,12 @@
   }
 
   .colBox4{
-    /* border:solid red 1px; */
     width:175px;
     font-size: 20px;
     text-align: center;
     padding:8px 0px 8px 0px;
   }
   .loginBox{
-    /* border:solid red 1px; */
     width:130px;
     color:white;
     background-color: #5637fe;
