@@ -1,0 +1,152 @@
+* body{
+    padding: 0;
+    margin: 0;
+}
+.main-box{
+    width:100%;
+    background-color:Linen;
+  }
+
+.CategoriesBox{
+    width: 1440px;
+    background-color: Linen;
+    margin:auto ;
+    padding-top: 90px;
+    padding-bottom: 80px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.Categories{
+    justify-content: space-between;
+    display: flex;
+    margin-bottom:50px;
+}
+.h2{
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 10px;
+    font-family: initial;
+    color:SaddleBrown; 
+}
+.viewboutton{
+    border:solid gray 1px;
+    width:130px;
+    height: 35px;
+    border-radius:24px;
+    text-align: center;
+    padding: 4px;
+    margin-top: 10px;
+}
+.ActorsBox{
+    justify-content: space-between;
+    display: flex;
+
+}
+.Box1{
+    width:265px;
+    height:190px;
+    display: flex;
+    border-radius: 12px;
+    background-color: GoldenRod;
+}
+.Box2{
+    width:265px;
+    height:190px;
+    display: flex;
+    border-radius: 12px;
+    background-color: green;
+    
+}
+.Box3{
+    width:265px;
+    height:190px;
+    display: flex;
+    border-radius: 12px;
+    background-color: blue;
+   
+}
+.Box4{
+    width:265px;
+    height:190px;
+    display: flex;
+    border-radius: 12px;
+    background-color: FireBrick;
+   
+}
+.Box5{
+    width:265px;
+    height:190px;
+    display: flex;
+    border-radius: 12px;
+    background-color: indigo;
+    
+}
+.read-more1 {
+    color: white; 
+    text-decoration: none;
+    font-size: 23px;
+    display: inline-block;
+  }
+.Box2col{
+    width:130px;
+    color:white;
+    font-size: 22px;
+    padding:10px;
+    height:100px;
+}
+
+.imagepng img{
+    position: relative;
+    width: 150px;
+    bottom: 30px;
+    height: 218px;
+    border-radius: 8px;
+    filter: brightness(1.05); 
+    transition: transform 0.3s ease-in-out;
+}
+
+.Box2col1{
+    border:solid white 2px;
+    width:30px;
+    height:30px;
+    margin-top: 70px;
+    border-radius: 50%;
+}
+
+.imagepng1 img{
+    position: relative;
+    width: 130px;
+    bottom: 30px;
+    height: 218px;
+    border-radius: 8px;
+    filter: brightness(1.05); 
+    transition: transform 0.3s ease-in-out;
+}
+.imagepng2 img{
+    position: relative;
+    width: 155px;
+    bottom: 30px;
+    height: 218px;
+    border-radius: 8px;
+    filter: brightness(1.05); 
+    transition: transform 0.3s ease-in-out;
+}
+.imagepng3 img{
+    position: relative;
+    width: 134px;
+    bottom: 30px;
+    height: 218px;
+    border-radius: 8px;
+    filter: brightness(1.05); 
+    transition: transform 0.3s ease-in-out;
+}
+.imagepng4 img{
+    position: relative;
+    width: 150px;
+    bottom: 30px;
+    height: 218px;
+    border-radius: 8px;
+    filter: brightness(1.05); 
+    transition: transform 0.3s ease-in-out;
+}
+ 

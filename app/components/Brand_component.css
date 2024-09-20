@@ -1,0 +1,71 @@
+*{
+    margin:0;
+    padding:0;
+}
+.brands {
+    padding: 60px 0;
+    text-align: center;
+    background-color: whitesmoke;
+}
+.stripebox{
+    font-size: 50px;
+    width:150px;
+    color: #6A32D7;
+    font-weight: bold;
+}
+.image-Logobox{
+    width:140px;
+    height:auto;
+}
+.image-Logobox1{
+    width:200px;
+    height:auto;
+}
+.image-Logobox3{
+    width:263px;
+    height:auto;
+}
+.image-Logobox4{
+    width:226px;
+    height:29px;
+}
+.image-Logobox2{
+    width:150px;
+    padding-top: 10px;
+}
+.Spotify-Logo{
+    width:240px;
+    height:130px;
+}
+
+.brands h2 {
+    color: #6A32D7;
+    margin-bottom: 30px;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.brand{
+    color: #999;
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+.brands-logos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 127px;
+    gap: 45px;
+    /* border: solid red 1px; */
+}
+.brands-logos1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 87px;
+    height: 88px;
+    /* border: solid red 1px; */
+}
