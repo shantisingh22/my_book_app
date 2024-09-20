@@ -58,7 +58,6 @@
     flex-wrap: wrap;
     height: 127px;
     gap: 45px;
-    /* border: solid red 1px; */
 }
 .brands-logos1 {
     display: flex;
@@ -67,5 +66,4 @@
     flex-wrap: wrap;
     gap: 87px;
     height: 88px;
-    /* border: solid red 1px; */
 }
