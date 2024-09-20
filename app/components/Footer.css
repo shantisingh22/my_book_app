@@ -25,6 +25,7 @@
 .footer-section p{
     font-size:24px;
     font-family: Inter;
+    margin-top: 30px;
     /* border:solid black 1px; */
 }
 .footer-section1 {
@@ -82,6 +83,7 @@
 .social-icons{
     margin-left: 10px;
     gap:40px;
+    margin-top: 30px;
     display:flex;
     border-radius: 12px;
 }
