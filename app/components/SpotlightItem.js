@@ -30,10 +30,10 @@ const Spotlight_Item = () => {
         </div>
         <div className="SpotlightItem2">
             <div className="twobox123">
-                <p>asdfgh</p>
-                <p>sdfghj</p>
-                <p>wertyuu</p>
-                <p>poiuygvfgh</p>
+                <p>Category</p>
+                <p>Followers</p>
+                <p>Cost Post</p>
+                <p>Campaign Budget</p>
             </div>
             <div className="twobox">
                 <div className="textword1">
