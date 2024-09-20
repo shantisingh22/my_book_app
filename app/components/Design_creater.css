@@ -35,13 +35,6 @@
     font-weight: normal;
   }
   
-  .read-more {
-    color: #7e3af2; 
-    text-decoration: none;
-    font-size: 35px;
-    margin-top: 132px;
-    display: inline-block;
-  }
   
   .arrow {
     position: absolute;
@@ -108,5 +101,15 @@
     border: 2px solid white;
     /* border:solid red 1px;  */
   }
+  .read-more {
+    color: #7e3af2; 
+    text-decoration: none;
+    font-size: 35px;
+    margin-top: 132px;
+    display: inline-block;
+    border-bottom: 3px solid #7e3af2; 
+    padding-bottom: 5px; 
+  }
+
   
   

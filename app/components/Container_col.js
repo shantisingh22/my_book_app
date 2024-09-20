@@ -8,11 +8,11 @@ const Container_col = ({ data }) => {
             <div className="textcreater">
                 <div className="box">
                     <p>{data.name1}</p>
-                    <div className="ghj">{data.name2}</div>
+                    <div className="namebox">{data.name2}</div>
                 </div>
                 <div className="box">
                     <p>{data.followers1}</p>
-                    <div className="ghj">{data.followers2}</div>
+                    <div className="namebox">{data.followers2}</div>
                 </div>
             </div>
             <hr></hr>
