@@ -11,7 +11,7 @@ const Influencerone = () => {
         <img src="img1.jpg" alt="Profile 1" class="profile"/>
         <img src="hrithik-roshan.png" alt="Profile 2" class="profile"/>
         <img src="images.jpeg" alt="Profile 3" class="profile"/>
-        <img src="aarti-chabria.png" alt="Profile 4" class="profile"/>
+        <img src="img1.jpg" alt="Profile 4" class="profile"/>
         <img src="Kushaimage.jpg" alt="Profile 5" class="profile"/>
       </div>
 

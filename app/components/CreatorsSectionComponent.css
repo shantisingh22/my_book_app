@@ -45,9 +45,11 @@
     border:solid gray 1px;
     width:130px;
     height: 35px;
+    color:black;
     border-radius:24px;
     text-align: center;
-    padding: 4px;
+    font-size: 14px;
+    padding: 8px;
     margin-top: 10px;
   }
   .creators-section h2 {
@@ -117,6 +119,7 @@
 
   .AppDiv{
     display: flex;
+    margin-top:20px;
     justify-content: space-between;
 
   }
